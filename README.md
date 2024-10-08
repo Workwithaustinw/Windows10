@@ -1,91 +1,45 @@
----
+# How to Make Windows 10 Awesome for Gaming
 
-# Optimizing Windows 10 for Gaming
+This guide will help you get your Windows 10 computer ready for games. By changing a few things, your games will run better!
 
-This guide outlines various steps you can take to optimize your Windows 10 system for a better gaming experience. By adjusting settings, managing background applications, and configuring system performance, you can enhance your gaming performance.
+## What You Need
 
-## Table of Contents
-1. [Prerequisites](#prerequisites)
-2. [System Settings](#system-settings)
-    - [Game Mode](#game-mode)
-    - [Graphics Settings](#graphics-settings)
-3. [Performance Tweaks](#performance-tweaks)
-    - [Disable Background Apps](#disable-background-apps)
-    - [Adjust Visual Effects](#adjust-visual-effects)
-4. [Network Optimization](#network-optimization)
-5. [Updating Drivers](#updating-drivers)
-6. [Using Game Optimization Software](#using-game-optimization-software)
-7. [Additional Tips](#additional-tips)
+- Make sure Windows 10 is updated (latest version).
+- Check if your computer is strong enough for the games you want to play.
 
----
+## Steps to Follow
 
-## Prerequisites
+### 1. Turn On Game Mode
+- Press `Win + I` to open **Settings**.
+- Go to **Gaming** > **Game Mode**.
+- Turn **Game Mode** **On**. This helps your games work better.
 
-- Ensure you are running **Windows 10** with the latest updates installed.
-- Make sure your hardware meets the recommended specifications for your games.
+### 2. Change Graphics Settings
+- In **Gaming**, click on **Graphics**.
+- Pick some games and set them to **High performance**. This makes the graphics look nicer.
 
----
+### 3. Stop Unneeded Apps
+- Go to **Settings** > **Privacy** > **Background apps**.
+- Turn off apps you don’t need running while gaming. Less stuff running means more power for your games!
 
-## System Settings
+### 4. Make Windows Look Simpler
+- Right-click on **This PC** and click **Properties**.
+- Click on **Advanced system settings** > **Settings** under **Performance**.
+- Choose **Adjust for best performance**. This makes your computer run faster but looks less pretty.
 
-### Game Mode
+### 5. Fix Network Stuff
+- Go to **Settings** > **Network & Internet** > **Status**.
+- Click on **Network reset** to fix your internet connection.
+- Make sure your internet drivers are up to date (check for updates).
 
-1. **Enable Game Mode**:
-   - Press `Win + I` to open **Settings**.
-   - Navigate to **Gaming** > **Game Mode**.
-   - Toggle **Game Mode** to **On**. This helps optimize system resources for gaming.
+### 6. Update Graphics Drivers
+- Go to your graphics card company’s website (like NVIDIA or AMD) to download the latest drivers.
+- You can also check for updates by right-clicking your graphics device in **Device Manager** and clicking **Update driver**.
 
-### Graphics Settings
+### 7. Use Cool Game Tools
+- Consider downloading programs like **Razer Cortex** or **MSI Afterburner**. These help make games run better without you doing much!
 
-1. **Adjust Graphics Settings**:
-   - In the same **Gaming** section, click on **Graphics**.
-   - You can choose specific apps and set them to **High performance** for better graphics rendering.
-
----
-
-## Performance Tweaks
-
-### Disable Background Apps
-
-1. **Stop Background Applications**:
-   - Go to **Settings** > **Privacy** > **Background apps**.
-   - Toggle off apps that you don’t need running in the background while gaming.
-
-### Adjust Visual Effects
-
-1. **Change Visual Effects**:
-   - Right-click on **This PC** and select **Properties**.
-   - Click on **Advanced system settings** > **Settings** under the **Performance** section.
-   - Select **Adjust for best performance** or manually disable specific visual effects.
-
----
-
-## Network Optimization
-
-1. **Optimize Network Settings**:
-   - Open **Settings** > **Network & Internet** > **Status**.
-   - Click on **Network reset** to refresh your network configuration.
-   - Ensure your network drivers are up to date.
-
----
-
-## Updating Drivers
-
-1. **Keep Graphics Drivers Up to Date**:
-   - Visit your graphics card manufacturer's website (NVIDIA, AMD, Intel) to download the latest drivers.
-   - Use **Device Manager** to check for updates by right-clicking on your graphics device and selecting **Update driver**.
-
----
-
-## Using Game Optimization Software
-
-1. **Install Game Optimization Software**:
-   - Consider using programs like **Razer Cortex**, **MSI Afterburner**, or **Game Fire** to manage system resources and optimize game performance automatically.
-
----
-
-## Additional Tips
-
-- **Disable Full-Screen Optimization**: Right-click the game executable, select **Properties** > **Compatibility**, and check **Disable fullscreen optimizations**.
-- **Monitor System Temperatures**: Use software like **HWMonitor** to keep an eye on CPU and GPU temperatures to avoid overheating.
-- **SSD for Gaming**: If possible, install your games on an SSD for faster load times.
+## Extra Tips
+- **Turn Off Full-Screen Optimization:** Right-click the game icon, go to **Properties** > **Compatibility**, and check **Disable fullscreen optimizations**.
+- **Keep an Eye on Temps:** Use **HWMonitor** to check CPU and GPU temps so they don’t get too hot.
+- **Put Games on an SSD:** If you can, install games on an SSD for faster load times.
